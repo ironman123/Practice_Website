@@ -1,0 +1,21 @@
+.body
+{
+
+}
+
+.header-container
+{
+    background-color: #1f2937;
+    display: flex;
+}
+
+.header
+{
+    display: flex;
+}
+
+.introduction-container
+{
+    background-color: #1f2937;
+    display: flex;
+}
