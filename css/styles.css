@@ -16,7 +16,6 @@
 
 .header
 {
-    border:1px solid red;
     display: flex;
     height: 66px;    
     flex:1 1 auto;
@@ -25,8 +24,6 @@
 
 .header .logo
 {
-    border:1px solid red;
-    border-color: red;
     color:#f9faf8;
     font-size: 24px;
     font-weight: bolder;
@@ -34,17 +31,14 @@
 }
 .header-link.one
 {
-    border:1px solid red;
     margin-left:auto;
 }
 .header-link.two
 {
-    border:1px solid red;
     margin-left:2%;
 }
 .header-link.three
 {
-    border:1px solid red;
     margin-left:2%;
     margin-right: 15%;
 }
@@ -61,7 +55,6 @@
 
 .intro-text
 {
-    border:1px solid red;
     width: 430px;
     display: flex;
     flex-direction: column;
@@ -70,7 +63,6 @@
 
 .intro-header
 {
-    border:1px solid red;
     font-size: 48px;
     color: #f9faf8;
     font-weight:bolder;
@@ -83,7 +75,6 @@
     align-items: center;
 
     background-color: cadetblue;
-    border:1px solid red;
     width: 540px;
     height: 272px;
     margin-right: 12%;
@@ -113,7 +104,6 @@
 
 .highlighter1
 {
-    border: 1px solid red;
     display: flex;
     width: 100%;
     flex-direction: column;
@@ -123,14 +113,12 @@
 .highlighter-heading
 {
     font-size: 42px;
-    border: 1px solid red;
     justify-self: center;
     align-self: center;
     margin-bottom: 3%;
 }
 .highlighter1 .info-boxes
 {
-    border: 1px solid red;
     display: flex;
     width: 100%;
     justify-content: center;
@@ -151,7 +139,6 @@
     display:flex;
     justify-content: center;
     align-items: flex-start;
-    border: 1px solid red;
 
     width: 180px;
     margin-bottom: 12%;
@@ -160,7 +147,6 @@
 
 .quote-container
 {
-    border: 1px solid blue;
     background-color: #e5e7eb;
     display: flex;
     height: 450px;
@@ -174,7 +160,6 @@
 
 .quote-container .quote
 {
-    border: 1px solid red;
     font-size: 33px;
     font-style: italic;
     font-weight: lighter;
@@ -183,7 +168,6 @@
 }
 .quote-container .quote-author
 {
-    border: 1px solid red;
     align-self:flex-end;
     margin-right: 18%;
     font-size: 24px;
@@ -201,7 +185,6 @@
 .bottom-section
 {
     display: flex;
-    border: 1px solid red;
     height: 45%;
     width: 75%;
     background-color: #3882f6;
@@ -214,7 +197,6 @@
 
 .bottom-text
 {
-    border:1px solid red;
 }
 
 .bottom-button
